@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb343238-9ab3-4b80-a1e6-0dec57e64b70" name="Changes" comment="Добавлены решения к 4ому ДЗ по курсу JAVA">
-      <change afterPath="$PROJECT_DIR$/src/main/java/HW5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HW5/PhoneBook.java" afterDir="false" />
+    <list default="true" id="fb343238-9ab3-4b80-a1e6-0dec57e64b70" name="Changes" comment="Добавлены решения к 5ому ДЗ по курсу JAVA">
+      <change afterPath="$PROJECT_DIR$/src/main/java/HW6/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HW6/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +53,9 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/User/IdeaProjects/HomeWorkJava/src/main/java/org/example/Main.java&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/IdeaProjects/JavaClassWork&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/User/IdeaProjects/HomeWorkJava/src/main/java/org/example/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -92,14 +95,22 @@
       <option name="project" value="LOCAL" />
       <updated>1686334544426</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Добавлены решения к 5ому ДЗ по курсу JAVA">
+      <created>1686827280518</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1686827280518</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Добавлены решения к 1ому ДЗ по курсу JAVA" />
     <MESSAGE value="Добавлены решения к 3ому ДЗ по курсу JAVA" />
     <MESSAGE value="Добавлены решения к 4ому ДЗ по курсу JAVA" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавлены решения к 4ому ДЗ по курсу JAVA" />
+    <MESSAGE value="Добавлены решения к 5ому ДЗ по курсу JAVA" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавлены решения к 5ому ДЗ по курсу JAVA" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
